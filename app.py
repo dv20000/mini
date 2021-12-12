@@ -1,12 +1,10 @@
+pip install -r requirements.txt
 from flask import Flask, request, render_template
 from flask_cors import cross_origin
 import sklearn
 import pickle
 import pandas as pd
-from pandas_datareader import data as pdr
 
-import yfinance as yf
-yf.pdr_override()
 
 app = Flask(__name__)
 model = pickle.load(open("flight_rf.pkl", "rb"))
