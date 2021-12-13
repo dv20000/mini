@@ -2,12 +2,11 @@ body {
     background-color: #e1f4f3;
     text-align: center;
 }
-nav {
-     padding: 5px 600px;
-}
 navbar {
     background-color: #333333;
 }
+navbar-brand {
+        padding-left: 600px;
 
 a {
     color: #f1f9f9;
