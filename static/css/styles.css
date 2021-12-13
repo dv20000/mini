@@ -5,10 +5,9 @@ body {
 
 .navbar {
     background-color: #333333;
+    padding: 0.5rem 40rem;
 }
-.navbar-brand {
-    text-align: center;
-}
+
 a {
     color: #f1f9f9;
 }
