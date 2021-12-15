@@ -3,11 +3,9 @@ body {
     text-align: center;
 }
 navbar {
-    background-color: #333333;
+    background-color: #CD1818;
 }
-navbar-brand {
-        padding-left: 600px;
-}
+
 a {
     color: #f1f9f9;
 }
