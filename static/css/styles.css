@@ -1,19 +1,16 @@
 body {
-    background-color: #370665;
-    text-align: center;
-}
-navbar {
-    background-color: #DFD3C3;
+background-color: #A3E4DB;
 }
 
-a {
-    color: #C7B198;
+navbar-header{
+text-align: center
 }
 
-a:hover {
-    color: #C7B198;
-  }
-card-body{
-    text-decoration: underline;
-      font-size: large;
+h5 {
+  font-size: large;
+  width: 150px;
+  border: 5px ridge black;
+  padding: 25px;
+  margin: 15px;
 }
+
