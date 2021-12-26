@@ -13,7 +13,7 @@ a {
 a:hover {
     color: #C7B198;
   }
-card-title {
+card-body{
     text-decoration: underline;
       font-size: large;
 }
