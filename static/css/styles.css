@@ -9,11 +9,15 @@ text-align: center;
 .card-title {
   font-size: large;
   width: 150px;
+  height: 20px
   border: 5px ridge black;
-  padding: 5px;
-  margin: 15px;
+  padding-right: 700px;
+  padding-left: 700px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0px;
   text-align: center;
-    background-color: #FFFCDC;
+  background-color: #FFFCDC;
   margin-left: 650px;
 }
 .card {
